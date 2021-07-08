@@ -8,3 +8,5 @@
 - 📫 How to reach me: david.damico@ecobee.com or david@damicofamily.ca
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: Godzilla... is good imo
+
+![A picture of godzilla](./img/the_big_guy.jpg)
